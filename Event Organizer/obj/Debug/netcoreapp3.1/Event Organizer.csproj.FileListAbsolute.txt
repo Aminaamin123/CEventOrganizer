@@ -1,0 +1,16 @@
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.csproj.AssemblyReference.cache
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event_Organizer.MainForm.resources
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.csproj.GenerateResource.cache
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.AssemblyInfoInputs.cache
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.AssemblyInfo.cs
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.csproj.CoreCompileInputs.cache
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\bin\Debug\netcoreapp3.1\Event Organizer.exe
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\bin\Debug\netcoreapp3.1\Event Organizer.deps.json
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\bin\Debug\netcoreapp3.1\Event Organizer.runtimeconfig.json
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\bin\Debug\netcoreapp3.1\Event Organizer.runtimeconfig.dev.json
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\bin\Debug\netcoreapp3.1\Event Organizer.dll
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\bin\Debug\netcoreapp3.1\Event Organizer.pdb
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.dll
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.pdb
+C:\Users\amina\source\repos\Event Organizer\Event Organizer\obj\Debug\netcoreapp3.1\Event Organizer.genruntimeconfig.cache
